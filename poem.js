@@ -43,6 +43,11 @@ const poem = `
     Who brave the night and make it work.
     We'll meet again at dawn's first ray,
     With coffee brewed and bugs to slay.
+
+    for sleepless nights, and restless days,
+    we still code on, while in a haze. 
+    we sacrafice our sleep, our sanity too,
+    for the love of code, and the things we do.
 `;
 
 console.log(poem);
